@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../app/assets/stylesheets/tweets.scss"
+    ],
+    "names": [],
+    "file": "tweets.css"
+}
